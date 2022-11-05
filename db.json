@@ -61,7 +61,7 @@
       "class": "Mammal",
       "lifespan": "14",
       "image_link": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Colubusmonkey.JPG",
-      "likes": 0,
+      "likes": 2,
       "id": 34
     },
     {
@@ -69,7 +69,7 @@
       "class": "Mammal",
       "lifespan": "11",
       "image_link": "https://animals.sandiegozoo.org/sites/default/files/styles/view_thumbnail/public/2016-09/animals_hero_pronghorn.jpg?h=d1cb525d&itok=cEbUM09i",
-      "likes": 0,
+      "likes": 5,
       "id": 192
     }
   ]
